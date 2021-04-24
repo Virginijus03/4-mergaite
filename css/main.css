@@ -1,0 +1,14 @@
+body{
+    background-color:#F8F8F8;
+}
+
+header {
+    display : inline-block;
+    width: 800px;
+    background-color:aquamarine;
+}
+main {
+    display : inline-block;
+    width: 800px;
+    background-color: pink;
+}
