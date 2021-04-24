@@ -9,9 +9,58 @@ header {
     background-color: aquamarine;
     
 }
+
+img{
+    display: inline-block;
+    height: 50px;
+    float: left;
+
+}
+
+nav{
+    display: inline-block;
+    float: right;
+    background-color: yellow;
+    margin-top: 13px;
+    margin-top: 8px;
+
+}
+
+a{
+    display: inline-block;
+    line-height: 20px;
+    font-size: 18px;
+    border: 2px solid red;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 17px;
+
+}
+
 main {
     display : inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);
     background-color: pink;
+}
+
+div{
+    display: inline-block;
+
+}
+
+h1{
+    display: inline-block;
+
+}
+
+p{
+    display: inline-block;
+
+}
+
+img{
+    display: inline-block;
+
 }
