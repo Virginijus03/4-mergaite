@@ -5,10 +5,13 @@ body{
 header {
     display : inline-block;
     width: 800px;
-    background-color:aquamarine;
+    margin-left: calc(50% - 400px);
+    background-color: aquamarine;
+    
 }
 main {
     display : inline-block;
     width: 800px;
+    margin-left: calc(50% - 400px);
     background-color: pink;
 }
